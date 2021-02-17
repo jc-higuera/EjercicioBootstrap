@@ -1,0 +1,26 @@
+#banner{
+    background-color: #48382e;
+    color: white;
+    text-align: center;
+}
+
+#barraLateral{
+    background-color: orange;
+}
+
+#topMenu{
+    background-color: #b57e6f;
+    text-align: center;
+}
+
+.contenido{
+    background-color: #efefef;  
+}
+
+.par{
+    background-color: #b65267;
+}
+
+.impar{
+    background-color: #3c93a7;
+}
